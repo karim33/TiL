@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<h3 class="fancy">Header</h3>
+		<p class="fancy">Paragraph</p>
+		<p id="serious">Paragraph 2</p>
+	</body>
+</html>
