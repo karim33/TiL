@@ -3,6 +3,16 @@
 	<head>
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 		<title>Result</title>
+		<style>
+		.fancy {
+    font-family:Cursive;
+    color:violet;
+}
+#serious {
+    font-family:Courier;
+    color:#8C8C8C;
+}
+		</style>
 	</head>
 	<body>
 		<h3 class="fancy">Header</h3>
