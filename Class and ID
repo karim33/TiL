@@ -12,6 +12,10 @@
     font-family:Courier;
     color:#8C8C8C;
 }
+body :nth-child(4) {
+    font-size:26px;
+}
+/*Pseudo selectors:Make sure to leave a space between body :nth-child. If you don't have a space it means "find the body tag that is an nth-child". If you have a space it means "find the nth-child of the body tag".*/
 		</style>
 	</head>
 	<body>
